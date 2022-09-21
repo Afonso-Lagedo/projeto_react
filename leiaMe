@@ -1,0 +1,10 @@
+Dependências:
+
+node & npm
+
+Instalação React:
+
+npx create-react-app PRIME
+
+Executar:
+dentro da pasta PRIME: npm start
