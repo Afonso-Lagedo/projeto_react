@@ -6,5 +6,9 @@ Instalação React:
 
 npx create-react-app PRIME
 
+Intalação Routes:
+
+npm install react-router-dom
+
 Executar:
 dentro da pasta PRIME: npm start
