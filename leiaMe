@@ -12,3 +12,6 @@ npm install react-router-dom
 
 Executar:
 dentro da pasta PRIME: npm start
+
+Para consumo da API com AXIOS (dentro da pasta PROJETO-NOME):
+npm install axios
