@@ -15,3 +15,7 @@ dentro da pasta PRIME: npm start
 
 Para consumo da API com AXIOS (dentro da pasta PROJETO-NOME):
 npm install axios
+
+Alertas
+Documentação: https://fkhadra.github.io/react-toastify/introduction
+Instalação: npm install react-toastify
